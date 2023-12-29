@@ -6,8 +6,7 @@ Welcome to **SpielNeuerer**, where we're dedicated to crafting the next generati
 At SpielNeuerer, we believe in pushing the boundaries of online gaming. Our goal is to develop MMO games that are not just fun to play but also bring players together in exciting, dynamic virtual worlds.
 
 ## Current Projects
-- **Project Titan**: An epic fantasy adventure MMO, set in a vast, ever-evolving world.
-- **CyberSphere**: A futuristic MMO with a focus on deep player-driven narratives and cybernetic enhancements.
+- **TBC**: An epic medieval battle MMO, set in a vast and ever-evolving world. 
 
 ## Join Us
 We're always on the lookout for creative, passionate individuals to join our team. Whether you're a game developer, artist, or story writer, we believe your talents can help shape the future of online gaming. Check out our [Careers Page](#) for current openings.
